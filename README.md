@@ -4,7 +4,7 @@
 [//]:(We_need_to_add_our_presentation_link_here.)
 
 ## Team Members:
-- [Alina Al Beani](www.linkedin.com/in/alina-beaini)
+- [Alina Al Beani](https://www.linkedin.com/in/alina-beaini/)
 - [Amanda Pan](https://github.com/appandaman)
 - [Berrin Senturk](https://www.linkedin.com/in/berrin-senturk-1b8a8a117/)
 - [Cemile Kurkoglu](https://www.linkedin.com/in/cemile-kurkoglu)
