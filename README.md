@@ -82,8 +82,8 @@ Since Keras does not natively support precision and recall metrics when more cla
 
 # Model Interface
 
-We've written a [web app](??) that showcases our model. 
+We've written a [web app](https://huggingface.co/spaces/AlinaBeaini/AIvsReal) that showcases our model. 
 
 Here is an example run.
 
-![image](...)
+![image](https://github.com/Alina-Beaini/AIvsReal/blob/main/Presentation_Images/AIvsReal_example.png?raw=true)
