@@ -12,7 +12,7 @@
 
 # Project Description
 
-The recent advances in deep learning, neural networks, and the advent of hardware to support it have provided fertile ground for creating fake images.  This new technology, if left unchallenged, creates the risk of undermining journalism, and therefore, democracy. In the words of the KPMG chair in organizational trust at the University of Queensland , Nicole Gillespie:
+The recent advances in deep learning, neural networks, and the advent of hardware to support it have provided fertile ground for creating fake images.  This new technology, if left unchallenged, creates a risk in multiple areas, including journalism, law enforcement, and knowledge itself. In the words of the KPMG chair in organizational trust at the University of Queensland , Nicole Gillespie:
 
 >“How do we know what’s true or not true any more? That’s what’s at stake.”</br>
 
