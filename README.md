@@ -56,9 +56,7 @@ Here the architecture of the dual-channel CNN is outlined.
 ## Filters
 
 Three filters were used in this project. The code for the filters is found in
-[`Filters.py`](??)
-
-[//]:(We_need_to_add_link_to_filters.)
+[`Filters.py`](https://raw.githubusercontent.com/Alina-Beaini/AIvsReal/main/Standalone_Modules/filters.py)
 
 ## Miscellany 
 
