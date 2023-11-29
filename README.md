@@ -6,7 +6,6 @@
 ## Team Members:
 - [Alina Al Beani](https://www.linkedin.com/in/alina-beaini/)
 - [Amanda Pan](https://github.com/appandaman)
-- [Berrin Senturk](https://www.linkedin.com/in/berrin-senturk-1b8a8a117/)
 - [Cemile Kurkoglu](https://www.linkedin.com/in/cemile-kurkoglu)
 - [Hasan Saad](https://github.com/HasanSaad2)
 
@@ -85,3 +84,10 @@ We've written a [web app](https://huggingface.co/spaces/AlinaBeaini/AIvsReal) th
 Here is an example run.
 
 ![image](https://github.com/Alina-Beaini/AIvsReal/blob/main/Presentation_Images/AIvsReal_example.png?raw=true)
+
+# References
+
+-Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.
+-Bird, J.J., Lotfi, A. (2023). CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. arXiv preprint arXiv:2303.14126.
+-Real images are from Krizhevsky & Hinton (2009), fake images are from Bird & Lotfi (2023). The Bird & Lotfi study is a preprint currently available on ArXiv and this description will be updated when the paper is published.
+
