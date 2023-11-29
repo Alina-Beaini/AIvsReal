@@ -88,6 +88,8 @@ Here is an example run.
 # References
 
 -Krizhevsky, A., & Hinton, G. (2009). Learning multiple layers of features from tiny images.
+
 -Bird, J.J., Lotfi, A. (2023). CIFAKE: Image Classification and Explainable Identification of AI-Generated Synthetic Images. arXiv preprint arXiv:2303.14126.
+
 -Real images are from Krizhevsky & Hinton (2009), fake images are from Bird & Lotfi (2023). The Bird & Lotfi study is a preprint currently available on ArXiv and this description will be updated when the paper is published.
 
