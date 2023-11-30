@@ -83,7 +83,7 @@ We've written a [web app](https://huggingface.co/spaces/AlinaBeaini/AIvsReal) th
 
 Here is an example run.
 
-![image](https://github.com/Alina-Beaini/AIvsReal/blob/main/Presentation_Images/AIvsReal_example.png?raw=true)
+![image](https://github.com/Alina-Beaini/AIvsReal/blob/main/Presentation_Images/AIvsReal_Example.png?raw=true)
 
 # References
 
